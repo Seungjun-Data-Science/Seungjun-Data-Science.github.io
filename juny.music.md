@@ -1,4 +1,7 @@
-### JUNY
+---
+layout: page
+title: JUNY
+---
 
 I do music as my side hustle. ***JUNY*** is my stagename! I have my own [Youtube Channel](https://www.youtube.com/channel/UCDBi2xuCCF4qNWCWfyIBUlQ) where I upload my music covers (English, Korean, Mandarin songs). <br>
 I plan to release my first Mixtape/EP this year on various music platforms including Spotify, so stay tuned! :) <br>
