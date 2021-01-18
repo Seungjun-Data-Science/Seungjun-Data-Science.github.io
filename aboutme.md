@@ -9,7 +9,7 @@ title: Resume/CV
 ### **Experience**
 
 **Research Associate**
-**Institute for Social Research, University of Michigan**
+**Institute for Social Research, University of Michigan** <br>
 *July 2020 – Present, Ann Arbor, MI*
 - Responsible for data and tech operations at the Criminal Justice Administrative Records System (CJARS) which manages data on arrests, court proceedings, probation, incarceration and parole covering 2+ billion records, 133+ million criminal justice events, 22 states and 30+ million unique individuals.
 - Writes STATA and Python scripts for cleaning, standardization and harmonization of criminal justice data.
@@ -83,7 +83,7 @@ Kaggle
 -	Allocated budget to events, digitized receipts on QuickBooks, managed money flow and worked as cashier during fundraiser art sales.
 
 **Army Sergeant**
-**Korean Defense Intelligence Command**                    
+**Korean Defense Intelligence Command** <br>                    
 *Aug 2015 – May 2017, South Korea*
 -	Led 35 squad members during military training and for collection and translation of open source intelligence regarding military, politics, economy and international relations of North Korea and U.S from English to Korean vice versa.
 
