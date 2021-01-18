@@ -19,9 +19,9 @@ navbar-links:
     - LinkedIn: "https://www.linkedin.com/in/kimseungjun/"
     - Instagram: "https://www.instagram.com/juny.music"
     - Youtube (My Music Channel): "https://www.youtube.com/channel/UCDBi2xuCCF4qNWCWfyIBUlQ"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
   CV: "cv"
   Portfolio/Projects: "portfolio"
   Blog: "blog"
