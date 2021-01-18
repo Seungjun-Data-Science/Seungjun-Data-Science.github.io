@@ -11,10 +11,10 @@ title: Resume/CV
 **Research Associate**
 **Institute for Social Research, University of Michigan**
 *July 2020 – Present, Ann Arbor, MI*
-•	Responsible for data and tech operations at the Criminal Justice Administrative Records System (CJARS) which manages data on arrests, court proceedings, probation, incarceration and parole covering 2+ billion records, 133+ million criminal justice events, 22 states and 30+ million unique individuals.
-•	Writes STATA and Python scripts for cleaning, standardization and harmonization of criminal justice data.
-•	Builds automated Python program for data quality assurance that detects errors and distributional anomalies in the data.
-•	Links criminal justice data with database in U.S. Census Bureau and creates Python program that produces statistical reports (recidivism rate, employment rate after release from prison, demographic breakdown of offenders etc.) from for external agencies.
+- Responsible for data and tech operations at the Criminal Justice Administrative Records System (CJARS) which manages data on arrests, court proceedings, probation, incarceration and parole covering 2+ billion records, 133+ million criminal justice events, 22 states and 30+ million unique individuals.
+- Writes STATA and Python scripts for cleaning, standardization and harmonization of criminal justice data.
+- Builds automated Python program for data quality assurance that detects errors and distributional anomalies in the data.
+- Links criminal justice data with database in U.S. Census Bureau and creates Python program that produces statistical reports (recidivism rate, employment rate after release from prison, demographic breakdown of offenders etc.) from for external agencies.
 
 **Data Science Intern**
 **Spotify**
