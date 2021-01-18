@@ -3,12 +3,6 @@
 # set up your website you should go through all these settings and edit them, but after
 # the initial set up you won't need to come back to this file often.
 
----
-layout: page
-title: Welcome to...
-subtitle: Josh Kim's Personal Website
----
-
 # --- Required options --- #
 
 # Name of website
