@@ -3,13 +3,19 @@
 # set up your website you should go through all these settings and edit them, but after
 # the initial set up you won't need to come back to this file often.
 
+---
+layout: page
+title: Welcome to...
+subtitle: Josh Kim's Personal Website
+---
+
 # --- Required options --- #
 
 # Name of website
-title: Welcome to my Page
+title: Seungjun (Josh) Kim
 
 # Your name to show in the footer
-author: Josh Kim
+author: Seungjun (Josh) Kim
 
 # --- List of links in the navigation bar --- #
 
