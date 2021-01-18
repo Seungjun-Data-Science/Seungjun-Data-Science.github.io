@@ -1,6 +1,6 @@
 ## About
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Me in London!](/assets/img/IMG_4301.jpg)
 
 ### Faith
 
