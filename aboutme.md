@@ -1,3 +1,8 @@
+---
+layout: page
+title: JUNY
+---
+
 ## About
 
 ![Me in London!](/assets/img/IMG_4301.jpg)
