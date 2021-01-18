@@ -1,9 +1,9 @@
 ---
 layout: page
-title: JUNY
+title: About Me...
 ---
 
-## About
+## Hi folks!
 
 ![Me in London!](/assets/img/IMG_4301.jpg)
 
