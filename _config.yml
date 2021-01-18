@@ -6,20 +6,27 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Welcome to my Page
 
 # Your name to show in the footer
-author: Some Person
+author: Josh Kim
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me:
+    - Bio: "aboutme"
+    - LinkedIn: "https://www.linkedin.com/in/kimseungjun/"
+    - Instagram: "https://www.instagram.com/juny.music"
+    - Youtube (My Music Channel): "https://www.youtube.com/channel/UCDBi2xuCCF4qNWCWfyIBUlQ"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
+  CV: "cv"
+  Portfolio/Projects: "portfolio"
+  Blog: "blog"
+  My Music: "juny.music"
+  
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
@@ -39,18 +46,18 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+#  email: "someone@example.com"
+#  facebook: deanattali
+  github: "https://github.com/Seungjun-Data-Science/"
+#  twitter: daattali
+#  patreon: DeanAttali
+  youtube: "https://www.youtube.com/channel/UCDBi2xuCCF4qNWCWfyIBUlQ"
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: "https://www.instagram.com/juny.music"
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -70,23 +77,26 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+#  twitter: true
+#  facebook: true
   linkedin: true
+  instagram: true
+  github: true
+  youtube: true
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+#url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
+feed_show_excerpt: false
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+feed_show_tags: false
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
