@@ -45,7 +45,7 @@ title: Resume/CV
 🎓🎓🎓
 ### **Education**
 
-**Vassar College**
+**Vassar College** <br>
 **Bachelor of Arts (B.A.) in Mathematics; Minors in Computer Science, Chinese** <br>
 **May 2020, Poughkeepsie, NY**
 - Honors and Awards
@@ -55,7 +55,8 @@ title: Resume/CV
 - Relevant Coursework: Applied Statistical Modelling, Bayesian Statistics, Econometrics, Probability and Models, Linear Algebra, Modern Algebra, Real Analysis
 
 **Oxford University, St. Catherine’s College** <br>
-**Junior Year Abroad Program, Jan 2019 – Jun 2019, Oxford, United Kingdom**
+**Junior Year Abroad Program** <br>
+**Jan 2019 – Jun 2019, Oxford, United Kingdom**
 - Relevant Coursework: Statistical Machine Learning, Quantitative Economics, Finance, Corporate Social Responsibility
 
 🤖🤖🤖 
