@@ -15,7 +15,8 @@ I am particularly passionate about Data Science for Social Good which refers to 
 
 ### Hobbies
 
-I do music as my side hustle. I sing and play the drums. Not a professional musician yet but I am taking baby steps to grow as a musician. I have a Youtube Channel where I upload my music covers (I sing English, Korean and Mandarin songs!). I am planning to release a mixtape / EP this year featuring some original music on different music platforms including Spotify. Stay Tuned! <br><br>
+I do music as my side hustle. I sing and play the drums. Not a professional musician yet but I am taking baby steps to grow as a musician.<br>
+I have a Youtube Channel where I upload my music covers (I sing English, Korean and Mandarin songs!). I am planning to release a mixtape / EP this year featuring some original music on different music platforms including Spotify. Stay Tuned! <br><br>
 Other things I love to do include cooking (especially Korean and Chinese food), body building, walking and hiking in nature, and watching K-dramas with friends (telepartttyyyyy! Thanks Netflix).
 
 
