@@ -5,7 +5,8 @@ title: Resume/CV
 
 *last updated: 01/17/2021*
 
-💼 ### **Experience**
+💼\
+### **Experience**
 
 **Research Associate**
 **Institute for Social Research, University of Michigan**
