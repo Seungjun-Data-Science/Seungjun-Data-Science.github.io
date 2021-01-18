@@ -5,7 +5,7 @@ title: Resume/CV
 
 *last updated: 01/17/2021*
 
-💼\
+💼
 ### **Experience**
 
 **Research Associate**
